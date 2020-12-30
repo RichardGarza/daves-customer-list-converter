@@ -1,0 +1,31 @@
+"First Name (Shipping)"|"Last Name (Shipping)"|"Mixed Bags"| "Chia Seeds"| "Celery Stalks"|"Address 1&2 (Shipping)"|"City (Shipping)"|"State Code (Shipping)"|"Postcode (Shipping)"|"Phone (Billing)"|Donation|"Customer Note"
+Susan|Kazanchyan|1|0|0|13103 Valley Vista Blvd|Studio City|CA|91604|8186487240|yes|
+Noush|Terzian|1|0|0|19431 Singing Hills Dr.|Porter Ranch|CA|91326|8185187705|yes|
+deidre y|hamaguchi|1|0|0|14411 kittridge street, #142|van nuys|CA|91405|3109138388||Pls txt and I will meet you at the bldg entrance!
+Angela|Fee|1|0|0|2054 Argyle Ave, 109|Los Angeles|CA|90068|3234819716|yes|
+Aneta|Badalian|1|0|0|1160 Irving Ave #101|Glendale|CA|91201|8184422637||
+Catherine|Mogil|1|0|0|13953 Cantlay St|Van Nuys|CA|91405|7144250955||
+veronica|Milito|2|0|12|4243 elmer avenue|studio city|CA|91602|8187662456||
+JACQUELINE|SEVAREID|1|0|0|13928 GILMORE ST|VALLEY GLEN|CA|91401|18182751397|yes|
+Maxine|Martens|1|0|0|5236 Ethel Avenue|Sherman Oaks|CA|91401|8182597271||
+Julie|Brunnick|1|1|1|6846 Colbath Ave.|Van Nuys|CA|91405|8182077559|yes|Deliver to 6846 Colbath, we are home early.
+Erica|Benvenuto|1|0|0|6849 Colbath Avenue|Van Nuys|CA|91405|8185620395||
+Daniela|Lenz Dippolito|1|0|0|6952 Colbath ave|Van nuys|CA|91405|6503074610||
+Ahide|Castellanos|1|1|1|8103 Greenbush Ave|Van Nuys|CA|91402|8183847358|yes|
+Erik|Larson|1|0|0|10422 SWINTON AVE|GRANADA HILLS|CA|91344|8187388714||
+yancey|franco|1|0|0|5407 Colfax Ave, Apt. 105|North Hollywood|CA|91601|8186132141||Use intercom for 105 to get buzzed in
+Clint|Allday|1|0|0|13223 Oxnard st., Apt 12|Van nuys|CA|91401|8186132141||
+Bonita|Alford|1|0|0|6119 Shadyglade Ave|North Hollywood|CA|91606|8183995512||
+Alexandra|Grane|1|0|0|14280 Greenleaf Streer|Sherman Oaks|CA|91423|3104181470||
+Carol|Amberg|1|0|0|23661 Park Sevilla|Calabasas|CA|91302|8182686198||
+Stephanie|Gray|1|0|0|13601 Valerio St. Unit A, Billing Address Line 2|Van Nuys|CA|91405|8182591527||
+Hannah|Villhauer|1|0|0|9475 Aldea Ave|Northridge|CA|91325|8186060967||
+Miriam|Cope|1|0|0|15003 Hamlin Street|Van Nuys|CA|91411|8182949816||please text 8182949816 then leave at the large white gate thank you
+Elizabeth|Kervella|1|0|0|11513 La Maida St|Valley Village|CA|91601|3104298994||
+kim|todd|2|0|0|14225 Hatteras Street|Sherman Oaks|CA|91401|8184817772||
+Avital|Levy|1|0|0|13130 Hart St|N Hollywood|CA|91605|3104026824|yes|
+Patrick|Williams|1|0|1|4715 Ventura Canyon Avenue|Sherman Oaks|CA|91423|3107706323|yes|
+Francesca|Corra|1|0|1|4030 Cartwright Ave|Studio City|CA|91604|8183703200||4030 Cartwright Ave
+Jennifer|LaSalle|1|0|0|5317 Denny Ave #102|North Hollywood|CA|91601|6123093558||
+Paul|Eiding|3|0|0|6954 Costello Ave|Van Nuys|CA|91405|8182196971||
+||=SUM(C2:C30)|=SUM(D2:D30)|=SUM(E2:E30)|||||||
